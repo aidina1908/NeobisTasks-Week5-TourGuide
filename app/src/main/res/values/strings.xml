@@ -8,12 +8,7 @@
     <string name="hotel">Hotel</string>
     <string name="overview">Overview</string>
 
-   <!-- <string name="map_key" translatable="false">
-        AIzaSyBwkmux3oRfqQ-1thViQ-igXKPJ2miYqBM
-    </string> -->
-
     <string name="intent_extra_item_title">ITEM_TITLE</string>
-
 
     <!-- clubs names-->
     <string name="drais_title">Drias</string>
@@ -22,10 +17,10 @@
     <string name="xs_title">XS</string>
 
     <!-- clubs addresses-->
-    <string name="drais_location">3595 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
-    <string name="hakkasan_location">3799 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
-    <string name="omnia_location">3570 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
-    <string name="xs_location">3131 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
+    <string name="drais_location">Drais Beachclub and Nightclub</string>
+    <string name="hakkasan_location">Hakkasan Nightclub</string>
+    <string name="omnia_location">OMNIA Nightclub</string>
+    <string name="xs_location">XS Nightclub</string>
 
     <!-- clubs descriptions-->
     <string name="drais_overview">Drai’s Nightclub towers 11 stories above the world-famous Las Vegas Strip. It redefines the Vegas entertainment experience. The crowning jewel of The Cromwell Las Vegas Hotel and Casino, Drais Las Vegas provides an unrivaled view encompassing the entire Strip and beyond.</string>
@@ -47,10 +42,10 @@ The nightclub at Hakkasan Las Vegas is the bold evolution of the prestigious glo
     <string name="mandalay_bay_title">Mandalay Bay</string>
 
     <!-- casino's addresses -->
-    <string name="aria_location">3730 S Las Vegas Blvd, Las Vegas, NV 89158, USA</string>
-    <string name="cosmopolitan_location">3708 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
-    <string name="encor_location">3121 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
-    <string name="mandalay_bay_location">3950 S Las Vegas Blvd, Las Vegas, NV 89119, USA</string>
+    <string name="aria_location">Aria Resort and Casino</string>
+    <string name="cosmopolitan_location">The Cosmopolitan Las Vegas</string>
+    <string name="encor_location">Encore Las Vegas</string>
+    <string name="mandalay_bay_location">Mandalay Bay</string>
 
     <!-- casino's descriptions -->
     <string name="aria_overview">Aria Resort and Casino is a luxury resort and casino, part of the CityCenter complex on the Las Vegas Strip in Paradise, Nevada. ... Among the most notable aspects of Aria is its incorporation of technology in the exterior and interior design of the hotel, specifically for the reduction of energy consumption.</string>
@@ -71,10 +66,10 @@ The nightclub at Hakkasan Las Vegas is the bold evolution of the prestigious glo
     <string name="minus_five_title">Minus Five</string>
 
     <!-- restaurants addresses -->
-    <string name="burger_king_location">3620 W Tropicana Ave, Las Vegas, NV 89103, USA</string>
-    <string name="gordon_ramsey_location">3655 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
-    <string name="mon_ami_location">3655 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
-    <string name="minus_five_location">The LINQ Promenade, 3545 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
+    <string name="burger_king_location">Burger King, Tropicana Ave, Las Vegas</string>
+    <string name="gordon_ramsey_location">Gordon Ramsay Steak, Las Vegas</string>
+    <string name="mon_ami_location">Mon Ami Gabi, Las Vegas</string>
+    <string name="minus_five_location">minus5 ICEBAR</string>
 
     <!-- restaurants's descriptions -->
     <string name="burger_king_overview">Every day, more than 11 million guests visit BURGER KING restaurants around the world. And they do so because our restaurants are known for serving high-quality, great-tasting, and affordable food. Founded in 1954, BURGER KING is the second largest fast food hamburger chain in the world. The original HOME OF THE WHOPPER, our commitment to premium ingredients, signature recipes, and family-friendly dining experiences is what has defined our brand for more than 50 successful years.</string>
@@ -107,10 +102,10 @@ The nightclub at Hakkasan Las Vegas is the bold evolution of the prestigious glo
     <string name="wynn_title">Wynn</string>
 
     <!-- hotels addresses -->
-    <string name="bellagio_location">3600 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
-    <string name="luxor_location">3900 S Las Vegas Blvd, Las Vegas, NV 89119, USA</string>
-    <string name="palazzo_location">3325 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
-    <string name="wynn_location">3131 S Las Vegas Blvd, Las Vegas, NV 89109, USA</string>
+    <string name="bellagio_location">Bellagio, Las Vegas</string>
+    <string name="luxor_location">Luxor hotel and casino</string>
+    <string name="palazzo_location">The Palazzo, Las Vegas</string>
+    <string name="wynn_location">Wynn Las Vegas</string>
 
     <!-- hotelss review -->
     <string name="bellagio_review">5</string>

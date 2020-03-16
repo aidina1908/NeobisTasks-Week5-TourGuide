@@ -33,34 +33,11 @@
             android:layout_height="wrap_content">
 
             <ImageView
-                android:id="@+id/placeholder"
-                android:layout_width="18dp"
-                android:layout_height="18dp"
-                android:layout_marginTop="16dp"
-                android:layout_marginLeft="16dp"
-                android:tint="@color/icon"
-                android:src="@drawable/placeholder"/>
-
-            <TextView
-                android:id="@+id/item_location"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="16dp"
-                android:layout_marginLeft="5dp"
-                android:layout_marginRight="16dp"
-                android:layout_marginEnd="16dp"
-                android:layout_marginTop="14dp"
-                android:layout_toRightOf="@id/placeholder"
-                android:textColor="@android:color/black"
-                android:textSize="16sp" />
-
-            <ImageView
                 android:id="@+id/info"
                 android:layout_width="18dp"
                 android:layout_height="18dp"
                 android:layout_marginTop="16dp"
                 android:layout_marginLeft="16dp"
-                android:layout_below="@id/item_location"
                 android:tint="@color/icon"
                 android:src="@drawable/info"/>
 
@@ -68,7 +45,6 @@
                 android:id="@+id/item_overview"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/item_location"
                 android:layout_marginLeft="8dp"
                 android:layout_marginTop="14dp"
                 android:layout_marginRight="16dp"
@@ -89,6 +65,8 @@
 
             <TextView
                 android:id="@+id/item_number"
+                android:autoLink="phone"
+                android:clickable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/black"
@@ -96,8 +74,7 @@
                 android:layout_below="@+id/item_overview"
                 android:layout_toRightOf="@id/phone"
                 android:layout_marginLeft="8dp"
-                android:layout_marginTop="14dp"
-                android:onClick="btn"/>
+                android:layout_marginTop="14dp" />
 
             <ImageView
                 android:id="@+id/web"
@@ -112,6 +89,8 @@
 
             <TextView
                 android:id="@+id/item_website"
+                android:autoLink="web"
+                android:clickable="true"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@android:color/black"
